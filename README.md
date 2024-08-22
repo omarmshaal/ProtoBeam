@@ -26,7 +26,6 @@ The core implementation is contained in the ProtoBeam.ipynb Jupyter notebook. To
 **1-** Clone this repository:
 ```bash
 git clone https://github.com/yourusername/ProtoBeam.git
-cd ProtoBeam
 ```
 
 **2-** Launch the Jupyter notebook.
