@@ -16,8 +16,8 @@
 To run the ProtoBeam code, ensure that you have the following dependencies installed:
 
 - **Python 3.10.12**
-- **PyTorch2.2.2+cu118**
-- **NumPy1.26.3**
+- **PyTorch 2.2.2+cu118**
+- **NumPy 1.26.3**
 
 ## Usage
 
